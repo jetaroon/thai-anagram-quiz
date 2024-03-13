@@ -1,0 +1,19 @@
+.v-application p {
+  margin-bottom: 0 !important;
+  align-self: center !important;
+  ;
+}
+
+button {
+  font-size: 0.8rem;
+}
+
+.theme--light.v-input input,
+.theme--light.v-input textarea {
+  color: rgba(0, 0, 0, 0.87) !important;
+}
+
+.theme--light.v-input--is-disabled input,
+.theme--light.v-input--is-disabled textarea {
+  color: none !important;
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "com.thai.anagramquiz.app",
+  "appName": "Thai Anagram Quiz",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}

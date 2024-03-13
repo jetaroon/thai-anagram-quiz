@@ -1,0 +1,7 @@
+{
+  "name": "thai-anagram-quiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Thai Anagram Quiz</string>
+    <string name="title_activity_main">Thai Anagram Quiz</string>
+    <string name="package_name">com.thai.anagramquiz.app</string>
+    <string name="custom_url_scheme">com.thai.anagramquiz.app</string>
+</resources>
